@@ -1,4 +1,4 @@
-Remaining_Trace_Prediction_Master_Thesis_Stephan_Faatz
+Remaining_Trace_Prediction_Seq2Seq_Transformer
 ==============================
 
 This project contains all the necessary files and data corresponding to the master thesis of remaining trace prediction with transformer networks.
